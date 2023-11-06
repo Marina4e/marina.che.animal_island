@@ -1,0 +1,6 @@
+name: Goat
+icon: 🐐
+maxWeight: 60.0
+maxAmount: 140
+maxSpeed: 3
+maxFood: 10.0

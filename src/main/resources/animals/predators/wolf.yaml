@@ -1,0 +1,6 @@
+name: Wolf
+icon: 🐺
+maxWeight: 50.0
+maxAmount: 30
+maxSpeed: 3
+maxFood: 8.0

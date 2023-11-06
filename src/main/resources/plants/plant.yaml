@@ -1,0 +1,6 @@
+name: Plant
+icon: 🌿
+maxWeight: 1.0
+maxAmount: 200
+maxSpeed: 0
+maxFood: 0.0

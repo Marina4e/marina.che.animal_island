@@ -1,0 +1,6 @@
+name: Sheep
+icon: 🐑
+maxWeight: 70.0
+maxAmount: 140
+maxSpeed: 3
+maxFood: 15.0

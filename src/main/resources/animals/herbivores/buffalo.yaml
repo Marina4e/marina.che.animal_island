@@ -1,0 +1,6 @@
+name: Buffalo
+icon: 🐃
+maxWeight: 700.0
+maxAmount: 10
+maxSpeed: 3
+maxFood: 100.0

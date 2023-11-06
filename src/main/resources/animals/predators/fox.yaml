@@ -1,0 +1,6 @@
+name: Fox
+icon: 🦊
+maxWeight: 8.0
+maxAmount: 30
+maxSpeed: 2
+maxFood: 2.0

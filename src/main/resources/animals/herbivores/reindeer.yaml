@@ -1,0 +1,6 @@
+name: Reindeer
+icon: 🦌
+maxWeight: 300.0
+maxAmount: 20
+maxSpeed: 4
+maxFood: 50.0
