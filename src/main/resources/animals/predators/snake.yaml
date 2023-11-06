@@ -1,0 +1,6 @@
+name: Snake
+icon: 🐍
+maxWeight: 15.0
+maxAmount: 30
+maxSpeed: 1
+maxFood: 3.0

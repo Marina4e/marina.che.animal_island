@@ -1,0 +1,6 @@
+name: Caterpillar
+icon: 🐛
+maxWeight: 0.01
+maxAmount: 1000
+maxSpeed: 0
+maxFood: 0.0

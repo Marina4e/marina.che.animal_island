@@ -1,0 +1,6 @@
+name: Boar
+icon: 🐗
+maxWeight: 400.0
+maxAmount: 50
+maxSpeed: 2
+maxFood: 50.0

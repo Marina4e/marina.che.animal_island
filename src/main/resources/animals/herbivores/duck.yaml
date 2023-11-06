@@ -1,0 +1,6 @@
+name: Duck
+icon: 🦆
+maxWeight: 1.0
+maxAmount: 200
+maxSpeed: 4
+maxFood: 0.15
